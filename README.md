@@ -5,7 +5,7 @@
 _I am a girl trying to figure-out stuff_ 🤓
 ---
 🌱 I’m currently learning everything 🤣 <br>
-🥅 2022 Goals: Contribute more to Open Source projects <br>
+🥅 2021 Goals: Contribute more to Open Source projects <br>
 ⚡ Fun fact: I love to design websites and draw 🎨
 
 #### Contect with me :
