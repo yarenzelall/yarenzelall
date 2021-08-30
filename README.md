@@ -2,7 +2,7 @@
 
 <img width="520px" height="250" alignitems="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-_I am a girl trying to figure-out stuff_ 🤓
+_I am a girl who is trying to figure-out stuff_ 🤓
 ---
 🌱 I’m currently learning everything 🤣 <br>
 🥅 2021 Goals: Contribute more to Open Source projects <br>
